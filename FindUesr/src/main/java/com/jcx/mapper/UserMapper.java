@@ -1,7 +1,7 @@
-package org.westos.mapper;
+package com.jcx.mapper;
 
+import com.jcx.entity.User;
 import org.apache.ibatis.annotations.Select;
-import org.westos.entity.User;
 
 import java.util.List;
 

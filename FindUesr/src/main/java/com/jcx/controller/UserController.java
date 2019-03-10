@@ -1,12 +1,11 @@
-package org.westos.controller;
+package com.jcx.controller;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseBody;
-import org.westos.entity.User;
-import org.westos.mapper.UserMapper;
+import com.jcx.entity.User;
+import com.jcx.mapper.UserMapper;
 
 import java.util.List;
 

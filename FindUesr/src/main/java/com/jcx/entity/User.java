@@ -1,4 +1,4 @@
-package org.westos.entity;
+package com.jcx.entity;
 
 import java.io.Serializable;
 

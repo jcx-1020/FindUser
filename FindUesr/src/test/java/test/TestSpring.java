@@ -2,9 +2,8 @@ package test;
 
 import org.junit.Test;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.westos.entity.User;
-import org.westos.mapper.UserMapper;
-import org.westos.service.UserService;
+import com.jcx.entity.User;
+import com.jcx.mapper.UserMapper;
 
 import java.util.List;
 
